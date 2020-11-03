@@ -1,0 +1,126 @@
+[26-May-2019 08:29:52 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:29:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:29:52 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:29:54 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:29:54 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:29:54 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:05 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:05 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:19 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:19 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:20 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:20 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:21 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:21 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:22 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:22 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:22 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:22 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:22 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:22 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:22 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:22 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:22 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:22 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:22 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:22 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:23 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:23 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:23 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:23 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:23 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:23 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:52:23 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:52:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:52:23 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[26-May-2019 08:53:58 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 23
+[26-May-2019 08:53:58 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 24
+[26-May-2019 08:53:58 America/New_York] PHP Fatal error:  Uncaught Exception: Connection failed: Access denied for user 'root'@'localhost' (using password: NO) in /home/devtmp1abmweb/public_html/en/clasess/db.php:32
+Stack trace:
+#0 /home/devtmp1abmweb/public_html/en/clasess/model.php(192): db->con()
+#1 /home/devtmp1abmweb/public_html/en/ajx/admins.php(8): model::secure('submit')
+#2 {main}
+  thrown in /home/devtmp1abmweb/public_html/en/clasess/db.php on line 32
+[27-May-2019 07:39:12 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/devtmp1abmweb/public_html/en/ajx/admins.php on line 14
+[27-May-2019 07:39:12 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/devtmp1abmweb/public_html/en/ajx/admins.php on line 15
+[27-May-2019 07:39:12 America/New_York] PHP Notice:  Undefined variable: user_id in /home/devtmp1abmweb/public_html/en/ajx/admins.php on line 21
+[29-May-2019 06:00:26 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/devtmp1abmweb/public_html/en/ajx/admins.php on line 14
+[29-May-2019 06:00:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/devtmp1abmweb/public_html/en/ajx/admins.php on line 15
+[29-May-2019 06:00:26 America/New_York] PHP Notice:  Undefined variable: user_id in /home/devtmp1abmweb/public_html/en/ajx/admins.php on line 21

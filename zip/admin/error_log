@@ -1,0 +1,14 @@
+[23-May-2019 10:17:47 America/New_York] PHP Notice:  Undefined variable: conn in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[23-May-2019 10:17:47 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[26-May-2019 21:03:09 America/New_York] PHP Notice:  Undefined variable: conn in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[26-May-2019 21:03:09 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[27-May-2019 05:06:49 America/New_York] PHP Notice:  Undefined variable: conn in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[27-May-2019 05:06:49 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[27-May-2019 05:12:14 America/New_York] PHP Notice:  Undefined variable: conn in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[27-May-2019 05:12:14 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[28-May-2019 06:42:58 America/New_York] PHP Notice:  Undefined variable: conn in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[28-May-2019 06:42:58 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[29-May-2019 06:00:08 America/New_York] PHP Notice:  Undefined variable: conn in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[29-May-2019 06:00:08 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[29-May-2019 06:58:10 America/New_York] PHP Notice:  Undefined variable: conn in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
+[29-May-2019 06:58:10 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/devtmp1abmweb/public_html/en/admin/includes/session.php on line 13
